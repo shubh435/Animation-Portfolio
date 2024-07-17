@@ -1,0 +1,7 @@
+export const backImage = require('./images/back.png')
+export const backgroundImage = require('./images/background.png')
+export const cartImage = require('./images/cart.png')
+export const dribbleImage = require('./images/dribble.png')
+export const instagramImage = require('./images/instagram.png')
+export const logoImage = require('./images/logo.png')
+export const telegramImage = require('./images/telegram.png')
