@@ -1,12 +1,12 @@
 import React from 'react';
 import './App.css';
-import { cartImage, dribbleImage, instagramImage, logoImage, telegramImage } from './assets/assets';
+import { cartImage, dribbleImage, instagramImage,  telegramImage } from './assets/assets';
 
 function App() {
   return (
     <div className="container">
       <nav>
-          <img src={logoImage} className="logo" />
+          <h1  className="logo">Shubham</h1>
         <ul>
           <li><a href="#">About</a></li>
           <li><a href="#">Contact</a></li>
